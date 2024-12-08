@@ -1,0 +1,5 @@
+    // Command to enable/disable Driver testsigning (Dev)
+
+bcdedit /set testsigning on
+bcdedit /set testsigning off
+
